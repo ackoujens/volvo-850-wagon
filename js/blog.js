@@ -89,7 +89,7 @@
     meta.append(new Date(issue.created_at).toLocaleDateString());
     if (issue.comments) {
       meta.append(' &middot; ');
-      meta.append(new Node('a', { href: '?' + issue.number }).append(issue.comments + ' comment(s)'));
+      meta.append(new Node('a', { href: '?' + issue.number }).append(issue.comments + ' update(s)'));
     }
     container.append(meta);
 
