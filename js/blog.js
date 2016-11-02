@@ -58,7 +58,7 @@
         parent.append(container);
       }
 
-      parent.append(new Node('a', { href: issue.html_url }).append('comment'));
+      //parent.append(new Node('a', { href: issue.html_url }).append('comment'));
       post.append(parent);
 
       posts.innerHTML = post.toString();
