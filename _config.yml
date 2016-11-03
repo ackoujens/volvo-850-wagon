@@ -1,0 +1,32 @@
+# Volvo 850 Wagon configuration
+title: Volvo 850 Wagon
+email: ackoujens@gmail.com
+description: Issue and modifaction log. Database of common and uncommon issue/solution articles.
+baseurl: /volvo-850-log
+url: http://ackoujens.github.io
+assets: /volvo-850-log/assets
+
+# Social
+twitter_username: ackoujens
+github_username:  ackoujens
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+sass:
+  sass_dir: _sass
+  #style: :compressed
+theme: minima
+
+# Global link appearance
+permalink: /:title
+
+# Limit posts to parse
+lsi: false
+
+# Disable custom plugins
+safe: false
+
+gems:
+  - jekyll-coffeescript
