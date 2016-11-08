@@ -7,11 +7,16 @@ words_per_minute:   200
 logo:               'assets/img/logo.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://ackoujens.github.io
-#baseurl:            /volvo-850-log
+
+# LOCAL - TESTING / REMOTE - GH-PAGES WITHOUT DOMAIN
+# url:              http://ackoujens.github.io
+# baseurl:          /volvo-850-log
+# assets:           /volvo-850-log/assets
+
+# REMOTE - GH-PAGES WITH DOMAIN
+url:                http://volvo850wagon.tk
 baseurl:
-#assets:             /volvo-850-log/assets
-assets:              /assets
+assets:             /assets
 
 # Limit posts to parse
 lsi: false
