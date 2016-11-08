@@ -1,37 +1,31 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About this Project
+tags: [about, website, project, volvo, KDBM, log]
+date: 2016-11-08
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>This website is a [KDBM]({{ site.baseurl }}/issues), [blog]({{ site.baseurl }}/blog) and an all around [showcase]({{ site.baseurl }}/showcase). Featuring my <b>Volvo 850 Wagon</b>.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## What this website can offer for you (especially when you own a similar car model)
+* A comprehensive list of common issues and their solutions
+* Each issue is updated with the steps I did to approach the problem
+* Restauration techniques
+* Product reviews
+* DIY information
+* Collaboration through Disqus comments
+* How to install mods
+* Maintenance information
 
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## Volvo Valour Vlogs
+To top this off, I created a [YouTube channel](https://www.youtube.com/channel/UCRtdHn14S8pudL77Mb-hznQ) to enlarge my social media experience and knowledge. 
+All the stuff in the paragraph above will go hand in hand with a fitting video.
+The blog posts also can turn into a vlog if I have the time to work them out.
+I won't be posting multiple times a week since I still have to work during weekdays but this is only a start and things are still phrone to change.
+This all ofcourse when I'm noticing an increase of interrest.
 
 ## Getting Started
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Now the only thing I can hope for is that this baby will take off and grow into something usefull to me and other car maniacs!
+If you don't want to miss out, be sure to follow me on all the social media platforms mentioned on the [front page]({{ site.baseurl }}).
