@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About this Project
-tags: [about, website, project, volvo, KDBM, log]
+tags: [about, website, information]
 date: 2016-11-08
 comments: false
 ---
