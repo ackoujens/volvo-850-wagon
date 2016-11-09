@@ -78,8 +78,8 @@
     if (issue.labels.length) {
       var categories = new Node('div', { class: 'categories' }).append('in ');
       for (var label of issue.labels)
-        categories.append(new Node('span', { style: 'color: #' + label.color }).append(label.name + ', '));
-      container.append(categories);
+        categories.append(new Node('span', { href: '?' + issue.number, style: 'color: #' + label.color }).append(label.name + ', '));
+	  container.append(categories);
     }
 
     var meta = new Node('div', { class: 'meta' });
