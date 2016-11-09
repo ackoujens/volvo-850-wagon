@@ -1,3 +1,5 @@
+// TODO Tweak colors to own needs
+
 //colors
 $bodycolor           : #D24D57;
 $black           	 : #000;
@@ -18,13 +20,17 @@ $color_fuscous_gray  : #555;
 $color_alabaster     : #fcfcfc;
 $color_celeste       : #ccc;
 $color_pink_swan     : #bbb;
-$comp-color 	     : complement(#222); 
+$comp-color 	     : complement(#222);
+
+// TODO Tweak button colors to something more unique
 
 //button colors
 $success			 : #5cb85c;
 $warning			 : #dd8338;
 $danger				 : #C64537;
 $info		         : #308cbc;
+
+// TODO Play around with different fonts
 
 //fonts
 $font1               : Fira Sans,sans-serif;

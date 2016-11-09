@@ -2,17 +2,25 @@
 sitemap: false
 ---
 
+// Bootstrap CSS Core
+@import "bootstrap";
+
+
+// ORIGINAL THEME
 // Partials
-@import "variables";
-@import "mixins";
-@import "normalize";
-@import "site";
-@import "typography";
-@import "elements";
-@import "syntax";
-@import "nav";
-@import "vendor/fonts";
-@import "vendor/font-awesome";
+//@import "variables";
+//@import "mixins";
+//@import "normalize";
+//@import "site";
+//@import "typography";
+//@import "elements";
+//@import "syntax";
+//@import "nav";
+//@import "vendor/fonts";
+//@import "vendor/font-awesome";
+
+// All animations belong here
 @import "vendor/animate";
-@import "vendor/magnific-popup/magnific-popup";
-@import "print"
+
+//@import "vendor/magnific-popup/magnific-popup";
+//@import "print";
