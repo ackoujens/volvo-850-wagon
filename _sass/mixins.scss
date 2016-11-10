@@ -1,22 +1,6 @@
 // UTILITY MIXINS
 // --------------------------------------------------
 
-// For clearing floats like a boss h5bp.com/q
-@mixin clearfix {
-  *zoom: 1;
-  &:before,
-  &:after {
-    display: table;
-    content: "";
-    // Fixes Opera/contenteditable bug:
-    // http://nicolasgallagher.com/micro-clearfix-hack/#comment-36952
-    line-height: 0;
-  }
-  &:after {
-    clear: both;
-  }
-}
-
 // Center-align a block level element
 // ----------------------------------
 @mixin center-block() {
@@ -28,7 +12,6 @@
 // ROUND CORNERS
 // --------------------------------------------------
 
-// .border-radius(VALUE,VALUE,VALUE,VALUE);
 @mixin border-radius($topright: 0, $bottomright: 0, $bottomleft: 0, $topleft: 0) {
   -webkit-border-top-right-radius : $topright;
   -webkit-border-bottom-right-radius : $bottomright;
@@ -43,15 +26,15 @@
   border-bottom-left-radius : $bottomleft;
   border-top-left-radius : $topleft;
   -webkit-background-clip : padding-box;
-  -moz-background-clip : padding;  
-  background-clip : padding-box; 
+  -moz-background-clip : padding;
+  background-clip : padding-box;
 }
 
 // .rounded(VALUE);
 @mixin rounded($radius:4px) {
   -webkit-border-radius : $radius;
   -moz-border-radius : $radius;
-  border-radius : $radius; 
+  border-radius : $radius;
 }
 
 // TYPOGRAPHY
@@ -92,7 +75,7 @@
   background-image  : -ms-linear-gradient(left, $startColor, $midColor, $endColor); 					 // IE10
   background-image  : -o-linear-gradient(left, $startColor, $midColor, $endColor); 						 // Opera 11.10
   background-image  : linear-gradient(left, $startColor, $midColor, $endColor); 							 // W3C
-  background-repeat : repeat-x; 
+  background-repeat : repeat-x;
 }
 
 // TRANSFORMATIONS
@@ -104,5 +87,5 @@
   -moz-transition : $transition;
   -ms-transition : $transition;
   -o-transition : $transition;
-  transition : $transition; 
+  transition : $transition;
 }

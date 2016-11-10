@@ -3,9 +3,9 @@ sitemap: false
 ---
 
 // Partials
+@import "bootstrap";
 @import "variables";
 @import "mixins";
-@import "normalize";
 @import "site";
 @import "typography";
 @import "elements";
@@ -15,4 +15,4 @@ sitemap: false
 @import "vendor/font-awesome";
 @import "vendor/animate";
 @import "vendor/magnific-popup/magnific-popup";
-@import "print"
+@import "print";

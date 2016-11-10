@@ -1,0 +1,10 @@
+    {% include scripts.html %}
+    <script src="{{ site.assets }}/js/wow.min.js"></script>
+    <script type="text/javascript">(new WOW).init();</script>
+    {% if site.mathjax == true %}
+        <!-- MathJax -->
+        <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+        {% endif %}
+    {% include required-js.html %}
+</body>
+</html>

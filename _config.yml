@@ -43,7 +43,7 @@ kramdown:
 mathjax:            true
 sass:
   sass_dir:         _sass
-  style:            compressed
+#  style:            compressed
 
 # Comments
 disqus_shortname:   taylantatli
@@ -85,7 +85,7 @@ gems:
   - jekyll-coffeescript
   - jekyll-mentions
   - jekyll-feed
-  - jekyll-sitemap
+#  - jekyll-sitemap
   - jekyll-gist
 
 jekyll-mentions:
