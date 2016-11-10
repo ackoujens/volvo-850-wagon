@@ -1,24 +1,6 @@
 // UTILITY MIXINS
 // --------------------------------------------------
 
-// TODO See if bootstrap also has these mixins so these can be omitted
-
-// For clearing floats like a boss h5bp.com/q
-@mixin clearfix {
-  *zoom: 1;
-  &:before,
-  &:after {
-    display: table;
-    content: "";
-    // Fixes Opera/contenteditable bug:
-    // http://nicolasgallagher.com/micro-clearfix-hack/#comment-36952
-    line-height: 0;
-  }
-  &:after {
-    clear: both;
-  }
-}
-
 // Center-align a block level element
 // ----------------------------------
 @mixin center-block() {
@@ -30,7 +12,6 @@
 // ROUND CORNERS
 // --------------------------------------------------
 
-// .border-radius(VALUE,VALUE,VALUE,VALUE);
 @mixin border-radius($topright: 0, $bottomright: 0, $bottomleft: 0, $topleft: 0) {
   -webkit-border-top-right-radius : $topright;
   -webkit-border-bottom-right-radius : $bottomright;

@@ -1,5 +1,3 @@
-// TODO See if bootstrap already has these defined like: container/row/...
-
 //@extend-elements
 %extend1 {
 	margin: 0;
@@ -71,7 +69,7 @@ body {
 	-ms-flex-align: center;
 	align-items: center;
 }
-.container {
+/*.container {
 	width: 36rem;
 	max-width: 550px;
 	padding-right: 15px;
@@ -90,9 +88,69 @@ body {
 	@media #{$medium} {
 		width: 80%;
 	}
+}*/
+
+// HOMPAGE
+.container-left {
+	width: 36rem;
+	max-width: 550px;
+	padding-right: 15px;
+	padding-left: 15px;
+	@include center-block();
+	background-color: $white;
+	color: $color_shark;
+	z-index: 1;
+	@include border-left-radius(3px);
+	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
+	@include transition(.5s);
+	@media #{$small} {
+		width: 100%;
+	  box-shadow: none;
+	}
+	@media #{$medium} {
+		width: 80%;
+	}
 }
+.container-right {
+	width: 36rem;
+	max-width: 550px;
+	padding-right: 15px;
+	padding-left: 15px;
+	@include center-block();
+	background-color: $white;
+	color: $color_shark;
+	z-index: 1;
+	@include border-right-radius(3px);
+	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
+	@include transition(.5s);
+	@media #{$small} {
+		width: 100%;
+	  box-shadow: none;
+	}
+	@media #{$medium} {
+		width: 80%;
+	}
+}
+
+// Cog icon bulletpoint
+//.cog-list {
+	li {
+		display: block;
+	}
+	li:before {
+		content: "\e019";
+		font-family: "Glyphicons Halflings";
+		font-size: 9px;
+		float: left;
+		margin-top: 4px;
+		margin-left: -17px;
+		color: #CCCCCC;
+	}
+//}
+
+// HOMPAGE
+
 .row {
-	margin-top: 15px;
 	text-align: center;
 	.title {
 	    margin-top: 0;
