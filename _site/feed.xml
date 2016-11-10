@@ -3,10 +3,10 @@
   <channel>
     <title>Volvo 850 Warwagon</title>
     <description>Issue and modifaction log. Database of common and uncommon issue/solution articles.</description>
-    <link>/volvo-850-log/</link>
-    <atom:link href="/volvo-850-log/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Nov 2016 12:49:25 +0100</pubDate>
-    <lastBuildDate>Thu, 10 Nov 2016 12:49:25 +0100</lastBuildDate>
+    <link>http://volvo850wagon.tk/</link>
+    <atom:link href="http://volvo850wagon.tk/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 10 Nov 2016 12:54:33 +0100</pubDate>
+    <lastBuildDate>Thu, 10 Nov 2016 12:54:33 +0100</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -163,8 +163,8 @@ feaure: http://example.com/some-image.png
 &lt;p&gt;This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Apr 2016 00:00:00 +0200</pubDate>
-        <link>/volvo-850-log/moon-theme/</link>
-        <guid isPermaLink="true">/volvo-850-log/moon-theme/</guid>
+        <link>http://volvo850wagon.tk/moon-theme/</link>
+        <guid isPermaLink="true">http://volvo850wagon.tk/moon-theme/</guid>
         
         <category>jekyll</category>
         
@@ -312,8 +312,8 @@ feaure: http://example.com/some-image.png
 &lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; You can also add notices by appending &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;.notice&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt; to a paragraph.&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 Mar 2016 00:00:00 +0100</pubDate>
-        <link>/volvo-850-log/markdown-syntax/</link>
-        <guid isPermaLink="true">/volvo-850-log/markdown-syntax/</guid>
+        <link>http://volvo850wagon.tk/markdown-syntax/</link>
+        <guid isPermaLink="true">http://volvo850wagon.tk/markdown-syntax/</guid>
         
         <category>markdown</category>
         
@@ -340,8 +340,8 @@ feaure: http://example.com/some-image.png
 
 </description>
         <pubDate>Tue, 15 Mar 2016 00:00:00 +0100</pubDate>
-        <link>/volvo-850-log/video-post/</link>
-        <guid isPermaLink="true">/volvo-850-log/video-post/</guid>
+        <link>http://volvo850wagon.tk/video-post/</link>
+        <guid isPermaLink="true">http://volvo850wagon.tk/video-post/</guid>
         
         <category>sample</category>
         
@@ -392,8 +392,8 @@ mathjax: true
 \end{align*} %]]&gt;&lt;/script&gt;
 </description>
         <pubDate>Mon, 10 Aug 2015 00:00:00 +0200</pubDate>
-        <link>/volvo-850-log/mathjax-example/</link>
-        <guid isPermaLink="true">/volvo-850-log/mathjax-example/</guid>
+        <link>http://volvo850wagon.tk/mathjax-example/</link>
+        <guid isPermaLink="true">http://volvo850wagon.tk/mathjax-example/</guid>
         
         <category>markdown</category>
         
@@ -509,10 +509,7 @@ mathjax: true
 
 &lt;p&gt;An example of a Gist embed below.&lt;/p&gt;
 
-&lt;noscript&gt;&lt;pre&gt;404: Not Found
-&lt;/pre&gt;&lt;/noscript&gt;
-&lt;script src=&quot;https://gist.github.com/mmistakes/6589546.js&quot;&gt; &lt;/script&gt;
-
+&lt;p&gt;true&lt;script src=&quot;https://gist.github.com/mmistakes/6589546.js&quot;&gt; &lt;/script&gt;&lt;/p&gt;
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
@@ -522,8 +519,8 @@ mathjax: true
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 16 Aug 2013 00:00:00 +0200</pubDate>
-        <link>/volvo-850-log/code-highlighting-post/</link>
-        <guid isPermaLink="true">/volvo-850-log/code-highlighting-post/</guid>
+        <link>http://volvo850wagon.tk/code-highlighting-post/</link>
+        <guid isPermaLink="true">http://volvo850wagon.tk/code-highlighting-post/</guid>
         
         <category>sample post</category>
         
@@ -625,8 +622,8 @@ Available values: [1..3].&lt;/li&gt;
 
 </description>
         <pubDate>Wed, 22 May 2013 00:00:00 +0200</pubDate>
-        <link>/volvo-850-log/sample-post-images/</link>
-        <guid isPermaLink="true">/volvo-850-log/sample-post-images/</guid>
+        <link>http://volvo850wagon.tk/sample-post-images/</link>
+        <guid isPermaLink="true">http://volvo850wagon.tk/sample-post-images/</guid>
         
         <category>sample post</category>
         
@@ -681,8 +678,8 @@ Available values: [1..3].&lt;/li&gt;
 &lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
 </description>
         <pubDate>Wed, 23 May 2012 00:00:00 +0200</pubDate>
-        <link>/volvo-850-log/readability-feature-post/</link>
-        <guid isPermaLink="true">/volvo-850-log/readability-feature-post/</guid>
+        <link>http://volvo850wagon.tk/readability-feature-post/</link>
+        <guid isPermaLink="true">http://volvo850wagon.tk/readability-feature-post/</guid>
         
         <category>sample post</category>
         
@@ -741,8 +738,8 @@ Available values: [1..3].&lt;/li&gt;
 &lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
 </description>
         <pubDate>Tue, 22 May 2012 00:00:00 +0200</pubDate>
-        <link>/volvo-850-log/readability-post/</link>
-        <guid isPermaLink="true">/volvo-850-log/readability-post/</guid>
+        <link>http://volvo850wagon.tk/readability-post/</link>
+        <guid isPermaLink="true">http://volvo850wagon.tk/readability-post/</guid>
         
         <category>sample post</category>
         
