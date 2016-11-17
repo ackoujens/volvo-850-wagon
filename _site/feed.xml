@@ -3,10 +3,10 @@
   <channel>
     <title>Volvo 850 Warwagon</title>
     <description>Issue and modifaction log. Database of issue/solution articles.</description>
-    <link>/volvo-850-log/</link>
-    <atom:link href="/volvo-850-log/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Nov 2016 10:43:40 +0100</pubDate>
-    <lastBuildDate>Thu, 17 Nov 2016 10:43:40 +0100</lastBuildDate>
+    <link>http://volvo850wagon.tk/</link>
+    <atom:link href="http://volvo850wagon.tk/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 17 Nov 2016 10:59:27 +0100</pubDate>
+    <lastBuildDate>Thu, 17 Nov 2016 10:59:27 +0100</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -44,8 +44,8 @@
 &lt;p&gt;&lt;strong&gt;Thanks for supporting me by reading this article and don’t hesitate to leave some feedback (positive or negative I don’t care) to help me improve.&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 Mar 2016 00:00:00 +0100</pubDate>
-        <link>/volvo-850-log/first-vlog-ever/</link>
-        <guid isPermaLink="true">/volvo-850-log/first-vlog-ever/</guid>
+        <link>http://volvo850wagon.tk/first-vlog-ever/</link>
+        <guid isPermaLink="true">http://volvo850wagon.tk/first-vlog-ever/</guid>
         
         <category>first</category>
         
