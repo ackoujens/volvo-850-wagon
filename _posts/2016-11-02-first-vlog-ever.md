@@ -2,7 +2,6 @@
 layout: post
 title:  "First vlog ever"
 date:   2016-03-15
-description: "My first piece of vlogging content that I will probably look down upon in a few months."
 tag:
 - first
 - vlog

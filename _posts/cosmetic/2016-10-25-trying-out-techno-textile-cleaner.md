@@ -2,7 +2,6 @@
 layout: post
 title:  "Trying out Techno Textile Cleaner"
 date:   2016-10-25
-description: "Basically, you get what you pay for."
 project: true
 tag:
 - cheap
