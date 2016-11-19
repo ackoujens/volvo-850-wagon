@@ -10,8 +10,8 @@ locale:             en_US
 
 # LOCAL - TESTING
 #url:              127.0.0.1:4000
-#baseurl:          /volvo-850-log
-#assets:           /volvo-850-log/assets
+baseurl:          /volvo-850-log
+assets:           /volvo-850-log/assets
 
 # REMOTE - GH-PAGES WITHOUT DOMAIN
 # url:              http://ackoujens.github.io
@@ -19,9 +19,9 @@ locale:             en_US
 # assets:           /volvo-850-log/assets
 
 # REMOTE - GH-PAGES WITH DOMAIN
-url:                http://volvo850wagon.tk
-baseurl:
-assets:             /assets
+# url:                http://volvo850wagon.tk
+# baseurl:
+# assets:             /assets
 
 # Limit posts to parse
 lsi: false
