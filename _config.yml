@@ -14,7 +14,7 @@ locale:             en_US
 # assets:           /volvo-850-log/assets
 
 # REMOTE - GH-PAGES WITHOUT DOMAIN
-url:              http://ackoujens.github.io
+url:              https://ackoujens.github.io
 baseurl:          /volvo-850-log
 assets:           /volvo-850-log/assets
 
