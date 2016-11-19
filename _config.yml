@@ -10,13 +10,13 @@ locale:             en_US
 
 # LOCAL - TESTING
 # url:              127.0.0.1:4000
-# baseurl:          /volvo-850-log
-# assets:           /volvo-850-log/assets
+# baseurl:          /volvo-850-wagon
+# assets:           /volvo-850-wagon/assets
 
 # REMOTE - GH-PAGES WITHOUT DOMAIN
 url:              https://ackoujens.github.io
-baseurl:          /volvo-850-log
-assets:           /volvo-850-log/assets
+baseurl:          /volvo-850-wagon
+assets:           /volvo-850-wagon/assets
 
 # REMOTE - GH-PAGES WITH DOMAIN
 # url:                http://volvo850wagon.tk
