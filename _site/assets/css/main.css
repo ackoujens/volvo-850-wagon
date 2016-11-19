@@ -6118,6 +6118,9 @@ h1, h2 {
 iframe {
   width: 100% !important; }
 
+img {
+  width: 100% !important; }
+
 .content {
   font-size: 14px;
   font-size: 0.875rem;
