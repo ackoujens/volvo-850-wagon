@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First vlog ever!"
+title:  "First vlog ever"
 date:   2016-03-15
 excerpt: "My first piece of vlogging content that I will probably look down upon in a few months."
 tag:
@@ -26,13 +26,13 @@ Before the event of me actually getting contacted that my wallet was found, I we
 
 Never did I even record myself for something serious on YouTube and you'll probably notice that while watching this one. Even when I'm aware of that, it's still very accomplishing to do!
 
-**You wont see vlogs every day because there are other videos asside from the vlogs I will need to edit.** Also, when writing this I'm still working on the basic structure of this website, other hobbies, work, friends to keep in touch with. You don't actually work 24/7 on YouTube content and I really don't get it yet how the regulars do this.
+**You wont see vlogs every day because there are other videos aside from the vlogs I will need to edit.** Also, when writing this I'm still working on the basic structure of this website, other hobbies, work, friends to keep in touch with. You don't actually work 24/7 on YouTube content and I really don't get it yet how the regulars do this.
 
 ## Editing
 
-Back in the day I really liked to edit videos in Sony Vegas and Adobe Premiere. Now that installed Premiere again I can't bear to notice how much things has changed. So the first task was picking up the ropes again of the editing process.
+Back in the day I really liked to edit videos in Sony Vegas and Adobe Premiere. Now that I've installed Premiere again I can't bear to notice how much things has changed. So the first task was picking up the ropes again of the editing process.
 
-Secondly, there are allot more kinds of software in the Adobe suite used for video media. Recently tried out Prelude, a piece of software that encourages you to create a rough cut before diving into the more complicated Premiere.
+Secondly, there are a lot more kinds of software in the Adobe suite used for video media. Recently tried out Prelude, a piece of software that encourages you to create a rough cut before diving into the more complicated Premiere.
 
 Maybe I'll talk about my workflow later on but until then I'll keep learning more about it. Also to prevent misinforming you peeps!
 
