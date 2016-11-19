@@ -9,14 +9,14 @@ tiled_bg:           false   # Set this true if you want to tile your background 
 locale:             en_US
 
 # LOCAL - TESTING
-#url:              127.0.0.1:4000
-baseurl:          /volvo-850-log
-assets:           /volvo-850-log/assets
-
-# REMOTE - GH-PAGES WITHOUT DOMAIN
-# url:              http://ackoujens.github.io
+# url:              127.0.0.1:4000
 # baseurl:          /volvo-850-log
 # assets:           /volvo-850-log/assets
+
+# REMOTE - GH-PAGES WITHOUT DOMAIN
+url:              http://ackoujens.github.io
+baseurl:          /volvo-850-log
+assets:           /volvo-850-log/assets
 
 # REMOTE - GH-PAGES WITH DOMAIN
 # url:                http://volvo850wagon.tk
