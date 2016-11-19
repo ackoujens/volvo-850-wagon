@@ -6115,6 +6115,9 @@ li:before {
 h1, h2 {
   margin-top: 1.3em; }
 
+iframe {
+  width: 100% !important; }
+
 .content {
   font-size: 14px;
   font-size: 0.875rem;
