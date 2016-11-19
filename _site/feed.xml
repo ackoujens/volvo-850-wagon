@@ -3,10 +3,10 @@
   <channel>
     <title>Volvo 850 Warwagon</title>
     <description>Issue and modifaction log. Database of issue/solution articles.</description>
-    <link>/volvo-850-log/</link>
-    <atom:link href="/volvo-850-log/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Nov 2016 13:05:56 +0100</pubDate>
-    <lastBuildDate>Sat, 19 Nov 2016 13:05:56 +0100</lastBuildDate>
+    <link>http://volvo850wagon.tk/</link>
+    <atom:link href="http://volvo850wagon.tk/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 19 Nov 2016 13:11:34 +0100</pubDate>
+    <lastBuildDate>Sat, 19 Nov 2016 13:11:34 +0100</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -41,8 +41,8 @@ This car has a 2.5l engine and is equipped with a dual fuel system. Since prices
 &lt;p&gt;This is the very start of a new beginning so don’t hold back on me in the comment section below. But I advice you to keep your commentary somewhat constructive so I can actually benefit from the info.&lt;/p&gt;
 </description>
         <pubDate>Tue, 25 Oct 2016 00:00:00 +0200</pubDate>
-        <link>/volvo-850-log/trying-out-techno-textile-cleaner/</link>
-        <guid isPermaLink="true">/volvo-850-log/trying-out-techno-textile-cleaner/</guid>
+        <link>http://volvo850wagon.tk/trying-out-techno-textile-cleaner/</link>
+        <guid isPermaLink="true">http://volvo850wagon.tk/trying-out-techno-textile-cleaner/</guid>
         
         <category>cheap</category>
         
@@ -90,8 +90,8 @@ This car has a 2.5l engine and is equipped with a dual fuel system. Since prices
 &lt;p&gt;&lt;strong&gt;Thanks for supporting me by reading this article and don’t hesitate to leave some feedback (positive or negative I don’t care) to help me improve.&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 Mar 2016 00:00:00 +0100</pubDate>
-        <link>/volvo-850-log/first-vlog-ever/</link>
-        <guid isPermaLink="true">/volvo-850-log/first-vlog-ever/</guid>
+        <link>http://volvo850wagon.tk/first-vlog-ever/</link>
+        <guid isPermaLink="true">http://volvo850wagon.tk/first-vlog-ever/</guid>
         
         <category>first</category>
         
