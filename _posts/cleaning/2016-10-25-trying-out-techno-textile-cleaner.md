@@ -3,6 +3,7 @@ layout: post
 title:  "Trying out Techno Textile Cleaner"
 date:   2016-10-25
 project: true
+categories: cleaning
 tag:
 - cheap
 - textile cleaner
